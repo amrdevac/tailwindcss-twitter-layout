@@ -118,8 +118,8 @@
                 </div>
             </div>
         </div>
-        <div class="col-span-2 py-3 ">
-            <div class="flex flex-row">
+        <div class="col-span-2 py-3">
+            <div class="flex flex-row bg-white/80 sticky top-0 z-10 backdrop-blur-sm">
                 <div class="basis-1/6 text-center self-center">
                     <i class="fa fa-arrow-left text-xl" aria-hidden="true"></i>
                 </div>
