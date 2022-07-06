@@ -37,53 +37,53 @@
                                 </svg>
                             </a>
                         </li>
-                        <li>
-                            <a>
-                                <i class="fa fa-home text-xl align-middle" aria-hidden="true"></i>
+                        <li class="hover:rounded-full">
+                            <a class="rounded-full active:bg-gray-200 active:text-black">
+                                <i class="fa fa-home text-xl align-middle " aria-hidden="true"></i>
                                 Home
                             </a>
                         </li>
                         <li>
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-hashtag text-xl align-middle" aria-hidden="true"></i>
                                 Explorer
                             </a>
                         </li>
                         <li>
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <div class="indicator">
-                                    <span class="indicator-item f badge badge-secondary"></span>
+                                    <span class="indicator-item f badge badge-info"></span>
                                     <i class="fa fa-bell text-xl" aria-hidden="true"></i>
                                 </div>
                                 Notification
                             </a>
                         </li>
                         <li>
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-envelope text-xl" aria-hidden="true"></i>
                                 Message
                             </a>
                         </li>
                         <li class="text-center">
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-bookmark text-xl" aria-hidden="true"></i>
                                 Bookmark
                             </a>
                         </li>
                         <li class="text-center">
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-list" aria-hidden="true"></i>
                                 Lists
                             </a>
                         </li>
                         <li class="text-center">
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-user" aria-hidden="true"></i>
                                 Profile
                             </a>
                         </li>
                         <li class="text-center">
-                            <a>
+                            <a class="rounded-full hover:bg-gray-100 active:bg-gray-100 active:text-black">
                                 <i class="fa fa-ellipsis-h " aria-hidden="true"></i>
                                 More
                             </a>
@@ -100,7 +100,7 @@
                                     <div class="colspan-2 normal-case">
                                         Bambang
                                         <br>
-                                        <span class="text-xs text-secondary">@bambang</span>
+                                        <span class="text-xs text-slate-500">@bambang</span>
                                     </div>
 
                                 </div>
